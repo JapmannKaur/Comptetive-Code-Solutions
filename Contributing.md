@@ -1,4 +1,4 @@
-You can provide solutions to any problem  in any programming language of your choice (like C++, Java, Python, etc) given in Hackerrank. You also need to provide the link of the question, from any coding platform (like LeetCode, GeeksForGeeks-Practice, InterviewBit, etc.)
+You can provide solutions to any problem  in any programming language of your choice (like C++, Java, Python, etc) given in any competitive coding platform. You also need to provide the link of the question, from any coding platform (like LeetCode, GeeksForGeeks-Practice, InterviewBit, etc.)
 
 Note:
 
